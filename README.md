@@ -21,6 +21,10 @@ Sistem Pengaduan Kerusakan Fasilitas Umum.
 
 ## Instalasi
 
+## CREDIT
+saljoe-id
+yaf886
+
 ```bash
 composer install
 cp .env.example .env
