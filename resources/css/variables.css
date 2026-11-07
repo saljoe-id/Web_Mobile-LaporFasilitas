@@ -1,0 +1,43 @@
+:root {
+    /* Brand */
+    --primary: #E3F2FD;
+    --secondary: #90CAF9;
+    --accent: #0D47A1;
+    --blue: #2196F3;
+
+    /* Neutral */
+    --white: #FFFFFF;
+    --background: #F8FBFF;
+    --text: #172B4D;
+    --muted: #64748B;
+    --border: #DCE8F3;
+
+    /* Status */
+    --success: #2E7D32;
+    --warning: #F9A825;
+    --danger: #D32F2F;
+
+    /* Typography */
+    --font-primary: 'Inter', sans-serif;
+
+    /* Radius */
+    --radius-sm: 8px;
+    --radius-md: 12px;
+    --radius-lg: 20px;
+
+    /* Spacing */
+    --space-1: 4px;
+    --space-2: 8px;
+    --space-3: 12px;
+    --space-4: 16px;
+    --space-5: 20px;
+    --space-6: 24px;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('/fonts/filament/filament/inter/inter-latin-wght-normal-DIHYUR35.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+}
