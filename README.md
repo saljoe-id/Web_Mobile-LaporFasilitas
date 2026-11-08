@@ -19,12 +19,12 @@ Sistem Pengaduan Kerusakan Fasilitas Umum.
 - Penugasan petugas.
 - Riwayat penanganan.
 
-## Instalasi
-
 ## CREDIT
 saljoe-id
 yaf886
 hilgamay-cpu
+
+## Instalasi
 
 ```bash
 composer install
